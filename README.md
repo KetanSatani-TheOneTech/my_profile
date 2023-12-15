@@ -24,5 +24,12 @@ To run the app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/flutter-profile-app.git
-   cd flutter-profile-app
+   https://github.com/KetanSatani-TheOneTech/my_profile.git
+2. **Install dependencies::**
+
+   ```bash
+   flutter clean; flutter pub get
+3. **Run The app**
+
+   ```bash
+   flutter run
