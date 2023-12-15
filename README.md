@@ -7,12 +7,12 @@ Welcome to the Flutter Profile App! This app provides a simple user authenticati
 1. **Login Screen:** Users can log in using their credentials.
 
 2. **Home Screen:** After successful login, users are directed to the home screen which displays their profile information, including:
-    - Profile Picture
-    - User Name
-    - Email
-    - Skills
-    - Work Experience
-
+   - Profile Picture
+   - User Name
+   - Email
+   - Skills
+   - Work Experience
+   
    The home screen also features a logout button at the top for easy session termination.
 
 3. **Edit Profile Screen:** Users can navigate to the edit profile screen to modify their profile information.
