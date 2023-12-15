@@ -1,16 +1,35 @@
-# my_profile_ketan
+# Flutter Profile App
 
-An assesment for the jetDevs
+Welcome to the Flutter Profile App! This app provides a simple user authentication system, a home screen displaying user details, and an edit profile screen for users to update their information.
+
+## Features
+
+1. **Login Screen:** Users can log in using their credentials.
+
+2. **Home Screen:** After successful login, users are directed to the home screen which displays their profile information, including:
+    - Profile Picture
+    - User Name
+    - Email
+    - Skills
+    - Work Experience
+
+   The home screen also features a logout button at the top for easy session termination.
+
+3. **Edit Profile Screen:** Users can navigate to the edit profile screen to modify their profile information.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   https://github.com/KetanSatani-TheOneTech/my_profile.git
+2. **Install dependencies::**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   flutter clean; flutter pub get
+3. **Run The app**
+
+   ```bash
+   flutter run
